@@ -187,7 +187,7 @@ if(isset($_POST['kirim_pesan'])){
                             
                             <div class="text-center mt-4">
                                 <h3 class="text-xl font-bold text-white">MUH.IKHWANUSSOFA</h3>
-                                <p class="text-sm text-brand-gold mt-1">Lead Photographer</p>
+                                <p class="text-sm text-brand-gold mt-1">My Foto</p>
                                 <div class="flex gap-3 justify-center mt-4 text-brand-lightText">
                                     <a href="#" class="hover:text-white transition-colors"><i data-lucide="instagram" class="w-5 h-5"></i></a>
                                     <a href="#" class="hover:text-white transition-colors"><i data-lucide="twitter" class="w-5 h-5"></i></a>
@@ -292,9 +292,9 @@ if(isset($_POST['kirim_pesan'])){
                 <!-- Info Hubungi -->
                 <div class="lg:col-span-5 space-y-6">
                     <span class="text-xs font-bold tracking-widest text-brand-gold uppercase block">KONTAK</span>
-                    <h2 class="text-3xl sm:text-4xl font-extrabold text-white">Mari Kolaborasi & Garap Karya Hebat!</h2>
+                    <h2 class="text-3xl sm:text-4xl font-extrabold text-white">Ide Kereatifmu</h2>
                     <p class="text-brand-lightText font-light leading-relaxed">
-                        Punya proyek seru yang ingin dikerjakan, atau sekadar ingin berdiskusi konsep kreatif? Silakan kirimkan pesan Anda melalui form ini.
+                        Punya ide kreatif, project website, desain, atau konsep digital lainnya? Saya siap membantu mengubah ide Anda menjadi karya yang modern, menarik, dan profesional. Silakan kirim pesan melalui formulir ini.
                     </p>
 
                     <div class="space-y-4 pt-4">
